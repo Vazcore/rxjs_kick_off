@@ -9,4 +9,4 @@ To start app type:
 npm i
 npm start
 ```
-2) Procceed to http://localhost:3001/
+2) Proceed to http://localhost:3001/
