@@ -10,3 +10,8 @@ npm i
 npm start
 ```
 2) Proceed to http://localhost:3001/
+
+
+## Presentation
+
+[Presentation 1](rxjs_kick_off/tree/master/presentation/rxjs_1.pptx)
