@@ -17,6 +17,7 @@
     "webpack-dev-server": "^2.7.1"
   },
   "dependencies": {
+    "fetch-jsonp": "^1.1.1",
     "rx-dom": "^7.0.3",
     "rxjs": "^5.4.2"
   },

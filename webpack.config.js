@@ -4,7 +4,8 @@ module.exports = {
   entry: {
     index: __dirname + '/src/js/index.js',
     vendor: __dirname + '/src/js/vendor.js',
-    map: __dirname + '/src/js/map.js'
+    map: __dirname + '/src/js/map.js',
+    inputs: __dirname + '/src/js/inputs.js'
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
