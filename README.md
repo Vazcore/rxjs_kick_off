@@ -14,4 +14,4 @@ npm start
 
 ## Presentation
 
-[Presentation 1](rxjs_kick_off/tree/master/presentation/rxjs_1.pptx)
+[Presentation 1](https://github.com/Vazcore/rxjs_kick_off/tree/master/presentation/rxjs_1.pptx)
